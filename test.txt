@@ -1,1 +1,2 @@
-testaddddd  충돌
+testaddddd  충돌 mining에서 충돌 작성
+mining에서 충돌 작성
